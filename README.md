@@ -1,1 +1,2 @@
 # Additional-information-for-case-set-P1-and-P2
+#This repository contains the additional information about the case set Provincial-1 and Provincial-2 used in the manuscript 《Optimality Guaranteed UC Acceleration via Interactive Utilization of Adjoint Model》. Since the power grid topology cannot be fully exhibited for data security concern within these two case sets, we only obtain the constructed model through a closed form “lp file” for the UC problem and these information is extracted from the "lp file".
